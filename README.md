@@ -8,6 +8,7 @@ printf ("thank you");
 
 beans;
 carrot;
+final test
 
 
 return0;
