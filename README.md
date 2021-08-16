@@ -3,6 +3,8 @@
 
 int main {
 
+printf ("hello github");
+
 
 return0;
 }
